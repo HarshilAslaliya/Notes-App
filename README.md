@@ -51,8 +51,6 @@ This project is [MIT](License.md) licensed.
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/121867931/232724896-363a6f31-dba2-48b0-b02e-2366cd28d8ac.png" width="200px" height="200px">
-
-### Made in India.
   
 ---
 ### You can show some respect by starring 🌟 the repository!
